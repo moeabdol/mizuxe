@@ -23,4 +23,9 @@ body {
   #showcase a {
     border-radius: 0; }
 
+.info-header {
+  width: 50%;
+  margin: auto;
+  border-bottom: 1px #DDDDDD solid; }
+
 /*# sourceMappingURL=styles.css.map */
