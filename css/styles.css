@@ -28,4 +28,14 @@ body {
   margin: auto;
   border-bottom: 1px #DDDDDD solid; }
 
+#authors img {
+  margin-top: -50px; }
+#authors .fa {
+  font-size: 25px; }
+#authors .card:hover {
+  background-color: #3292A6;
+  color: #FFFFFF; }
+  #authors .card:hover .fa {
+    color: #FFFFFF; }
+
 /*# sourceMappingURL=styles.css.map */
