@@ -1,0 +1,12 @@
+body {
+  margin-top: 105px; }
+
+.navbar {
+  box-shadow: 2px 2px 5px #3292A6;
+  opacity: 0.9;
+  background-color: #FFFFFF; }
+  .navbar .nav-item {
+    font-size: 1.4rem;
+    padding-right: 20px; }
+
+/*# sourceMappingURL=styles.css.map */
